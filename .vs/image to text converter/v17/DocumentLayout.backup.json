@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emili\\source\\repos\\image to text converter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF07B06C-FF08-465A-8666-62D7C17E5D34}|image to text converter\\image to text converter.csproj|c:\\users\\emili\\source\\repos\\image to text converter\\image to text converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF07B06C-FF08-465A-8666-62D7C17E5D34}|image to text converter\\image to text converter.csproj|solutionrelative:image to text converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF07B06C-FF08-465A-8666-62D7C17E5D34}|image to text converter\\image to text converter.csproj|C:\\Users\\emili\\source\\repos\\image to text converter\\image to text converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF07B06C-FF08-465A-8666-62D7C17E5D34}|image to text converter\\image to text converter.csproj|solutionrelative:image to text converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\source\\repos\\image to text converter\\image to text converter\\Form1.cs",
+              "RelativeDocumentMoniker": "image to text converter\\Form1.cs",
+              "ToolTip": "C:\\Users\\emili\\source\\repos\\image to text converter\\image to text converter\\Form1.cs",
+              "RelativeToolTip": "image to text converter\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T01:46:55.935Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emili\\source\\repos\\image to text converter\\image to text converter\\Form1.cs",
+              "RelativeDocumentMoniker": "image to text converter\\Form1.cs",
+              "ToolTip": "C:\\Users\\emili\\source\\repos\\image to text converter\\image to text converter\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "image to text converter\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:53:03.771Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
